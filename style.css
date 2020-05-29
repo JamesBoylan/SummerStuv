@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  background-color: rgb(219, 153, 122);
+  margin: 100;
+  font-family: Lato, san-serif;
+ 
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 70px;
+  padding-left: 50px;
+  height: 70px;
+  font-family: 'Nanum Gothic', sans-serif;
+  
+}
+
+ nav{
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+h1 {
+      text-align: center;
+      color: rgb(128, 83, 0);
+      font-size: 45px;
+      font-family: 'Nanum Gothic', sans-serif;
+  }
+
+h2 {
+    text-align: center;
+    color: rgb(128, 83, 0);
+    font-size: 45px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+p{
+    text-align: center; 
+    color: rgb(128, 83, 0);
+    font-size:20px;
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+
+  ul{
+    text-align: left;
+    color: rgb(128, 83, 0);
+    font-size: 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+
+  #list{
+    font-size: 29px;
+  }
+
+  .footer {
+ padding-top: 100px;
+  }
+
+
+
+
+  
